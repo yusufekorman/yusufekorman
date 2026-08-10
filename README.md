@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Yusuf!<br>- 🔭 I’m currently working on my AI Agent and <a href="https://munhood.com" target="_blank">munhood</a>.<br>- 🌱 I’m currently learning JavaScript, Python and Go.<br>- 📖 I guess I will always have things to learn.</p>
+<p align="left">I'm Yusuf!<br>- 🔭 I’m currently working on some mobile applications (that I'll publish soon!) and <a href="https://eventrea.com" target="_blank">eventrea</a>.<br>- 🌱 I’m currently learning JavaScript, Python and Go.<br>- 📖 I guess I will always have things to learn.</p>
 
 ###
 
