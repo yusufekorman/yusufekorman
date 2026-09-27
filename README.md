@@ -5,7 +5,7 @@ Always learning — lately JavaScript, Python and Go.
 
 #### Currently building
 
-- **Izlek**: a GIS-integrated mobile app that maps the routes and landmarks of significant literary works, so you can trace fictional characters' footsteps using real-world coordinates.
+- <img src="https://www.google.com/s2/favicons?domain=izlek.net&sz=64" width="16" height="16" alt="" /> **[Izlek](https://izlek.net)**: a GIS-integrated mobile app that maps the routes and landmarks of significant literary works, so you can trace fictional characters' footsteps using real-world coordinates.
 - **[eventrea](https://eventrea.com)**
 
 <br>
