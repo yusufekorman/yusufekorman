@@ -5,8 +5,8 @@ Always learning — lately JavaScript, Python and Go.
 
 #### Currently building
 
-- <img src="https://www.google.com/s2/favicons?domain=izlek.net&sz=64" width="16" height="16" alt="" /> **[Izlek](https://izlek.net)**: a GIS-integrated mobile app that maps the routes and landmarks of significant literary works, so you can trace fictional characters' footsteps using real-world coordinates.
-- **[eventrea](https://eventrea.com)**
+- <img src="https://www.izlek.net/favicon.png" width="16" height="16" alt="" /> **[Izlek](https://izlek.net)**: a GIS-integrated mobile app that maps the routes and landmarks of significant literary works, so you can trace fictional characters' footsteps using real-world coordinates. First route: a 12-stop, location-triggered audio walk through Istanbul following Tanpınar's *Huzur*.
+- <img src="https://eventrea.com/favicon.svg" width="16" height="16" alt="" /> **[eventrea](https://eventrea.com)**: event creation, management and attendee experience in one platform. Coming soon.
 
 <br>
 
