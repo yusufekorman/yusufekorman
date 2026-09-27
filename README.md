@@ -1,7 +1,12 @@
 ### Hi, I'm Yusuf 👋
 
-Mobile developer, currently building **personal assistant** and **location-based** apps, and working on [eventrea](https://eventrea.com).
+Mobile developer, currently building **personal assistant** and **location-based** apps.
 Always learning — lately JavaScript, Python and Go.
+
+#### Currently building
+
+- **Izlek**: a GIS-integrated mobile app that maps the routes and landmarks of significant literary works, so you can trace fictional characters' footsteps using real-world coordinates.
+- **[eventrea](https://eventrea.com)**
 
 <br>
 
