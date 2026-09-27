@@ -1,7 +1,7 @@
 ### Hi, I'm Yusuf 👋
 
-Developer building mobile apps and [eventrea](https://eventrea.com).
-Currently learning JavaScript, Python and Go — there's always something new to learn.
+Mobile developer, currently building **personal assistant** and **location-based** apps, and working on [eventrea](https://eventrea.com).
+Always learning — lately JavaScript, Python and Go.
 
 <br>
 
